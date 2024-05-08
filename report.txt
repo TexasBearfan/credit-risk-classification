@@ -1,0 +1,13 @@
+Overview:
+    This model and exercise it built in order to identify the creditworthiness of borrowers
+    and there for classify and predict loans that would have a benefical effect on the lender.
+Results:
+    Accuracy:72.96%
+    Loss:56.17%
+    Precision: 71.89%
+    Recall:80.30%
+Summary:
+    The results are a mixed bag. The acuuracy appears to be high however the loss is beyond acceptable levels and for a
+    financial institution to hand out loans based upon this model it woudl not be benefical in the long term. The
+    Model would pick mostly winners but the error in it would either entirely negate or at the very least significantly
+    damage the profits. I do not recommend using this model.
